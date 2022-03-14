@@ -1,0 +1,15 @@
+.footer {
+  background-color: #2C2B2B;
+  padding: 60px 0;
+}
+.footer p {
+  color: rgba(148, 145, 145, 0.632);
+}
+.icons a {
+  color: #66DD89;
+  font-size: 30px;
+  margin: 0 6px;
+}
+.footer .fas {
+  color: red;
+}

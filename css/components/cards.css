@@ -1,0 +1,25 @@
+.container {
+  width: 900px;
+  margin: auto;
+}
+.cards {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.card {
+  border: 1px rgb(230, 230, 230) solid;
+  box-shadow: 0 0 5px rgb(230, 230, 230);
+  width: 200px;
+  padding: 20px;
+}
+h3 {
+  font-size: 1em;
+}
+.card img {
+  height: 100px;
+}
+.card p {
+  opacity: 0.5;
+}
